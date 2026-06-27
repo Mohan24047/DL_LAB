@@ -1,4 +1,3 @@
 DEEP LEARNING LAB ASSGNMENTS WITH CODE AND OUTPUT IMAGES
 
-Name : Mohana Surendra
-Roll no. : CH.SC.U4AIE24047
+Name : Mohana Surendra        Roll no. : CH.SC.U4AIE24047
